@@ -14,9 +14,9 @@ A growing collection of LeetCode solutions. I will solve and document at least o
 
 | Metric | Count |
 | --- | ---: |
-| Problems solved | 1 |
+| Problems solved | 2 |
 | Daily target | 1 problem |
-| Current streak | 1 day |
+| Current streak | 2 days |
 
 ## Problem Tracker
 
@@ -25,6 +25,7 @@ Add every future solution to this table. Keep the entries ordered by the day the
 | # | Problem | Difficulty | Topic | Solution | Date completed |
 | ---: | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Map | [twosums.py](Leet01/twosums.py) | 2026-09-19 |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [addtwonumbers.py](Leet01/addtwonumbers.py) | 2026-09-20 |
 
 ## Daily Workflow
 
@@ -48,7 +49,8 @@ Add every future solution to this table. Keep the entries ordered by the day the
 Leetcodes/
 ├── README.md
 ├── Leet01/
-│   └── twosums.py
+│   ├── twosums.py
+│   └── addtwonumbers.py
 ├── Leet02/
 │   └── problem_name.py
 └── Leet03/
